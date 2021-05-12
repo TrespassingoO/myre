@@ -1,5 +1,5 @@
 struct node {
-	int y;
 	int x;
+	int z;
 }
 
